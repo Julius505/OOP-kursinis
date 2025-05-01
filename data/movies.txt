@@ -1,0 +1,10 @@
+The Shawshank Redemption,142,Regular
+Dune: Part Two,166,IMAX
+The Godfather,175,Regular
+Interstellar,169,IMAX
+Inception,148,Regular
+Avatar: The Way of Water,192,IMAX
+Pulp Fiction,154,Regular
+The Dark Knight,152,IMAX
+Forrest Gump,142,Regular
+Avengers: Endgame,181,IMAX
